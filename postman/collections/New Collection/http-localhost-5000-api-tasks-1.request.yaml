@@ -1,0 +1,23 @@
+$kind: http-request
+name: http://localhost:5000/api/tasks
+description: ""
+url: http://localhost:5000/api/tasks
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \       \r
+
+    \        \r
+
+    \        \"description\": \"This is a test task for java\",\r
+
+    \        \"status\": \"pending\",\r
+
+    \        \"priority\": \"high\"\r
+
+    \        \r
+
+    \    }"
+order: 4045703284057828

@@ -1,0 +1,13 @@
+$kind: http-request
+name: http://localhost:5000/api/tasks/6aad8f24f795c552d0d92d3c
+description: ""
+url: http://localhost:5000/api/tasks/6aad8f24f795c552d0d92d3c
+method: GET
+body:
+  type: json
+  content: "{\r
+
+    \    \"status\": \"completed\"\r
+
+    }"
+order: 572704886215985
